@@ -1,4 +1,9 @@
-th{
-
-    font-weight: bold;
+.MuiTableRow-head th.MuiTableCell-head{
+    font-weight: bold !important;
+}
+.MuiTableRow-head{
+    background-color: #efefef;
+}
+#APP .MuiAppBar-positionStatic{
+    background-color: #181818;
 }
